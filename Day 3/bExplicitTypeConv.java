@@ -1,5 +1,5 @@
 // Write a program to demonstrate explicit type casting in java.
-public class ExplicitTypeConv {
+public class bExplicitTypeConv {
     public static void main(String[] args) {
         double d = 100.23;
         // Explicit Type Casting :trucation,

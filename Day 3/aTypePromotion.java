@@ -1,4 +1,4 @@
-public class TypePromotion {
+public class aTypePromotion {
     public static void main(String[] args) {
         byte b = 50;
         // Error: cannot convert from int to byte

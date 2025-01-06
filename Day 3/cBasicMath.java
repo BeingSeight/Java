@@ -1,4 +1,4 @@
-public class BasicMath {
+public class cBasicMath {
     public static void main(String[] args) {
         int a = 1 + 1; // 2
         int b = a * 3; // 6
