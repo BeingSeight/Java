@@ -1,12 +1,19 @@
-// If Else conditional statement
+// If Else conditional statement 
+
+import java.util.Scanner;
 
 public class eIfElse {
     public static void main(String[] args) {
-        int x = 8;
-        if (x > 5) {
-            System.out.println("x is greater than 5");
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter your age: ");
+        int age = sc.nextInt();
+
+        if (age >= 18) {
+            System.out.println("You are eligible to vote.");
         } else {
-            System.out.println("x is less than or equal to 5");
+            System.out.println("You are not eligible to vote.");
         }
+
+        sc.close();
     }
 }
