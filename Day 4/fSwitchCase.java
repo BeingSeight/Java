@@ -35,5 +35,6 @@ public class fSwitchCase {
                 break;
         }
         System.out.println("The season is " + season);
+        sc.close();
     }
 }
