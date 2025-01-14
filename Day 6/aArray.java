@@ -1,4 +1,4 @@
-// write a program to find sum of elements of an array
+// write a program to find sum of elements of an array for user input array.
 import java.util.Scanner;
 
 public class aArray {
@@ -19,6 +19,7 @@ public class aArray {
         }
 
         System.out.println("Sum of elements of array is: " + sum);
+
         sc.close();
     }
 }
