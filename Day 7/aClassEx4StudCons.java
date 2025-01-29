@@ -49,7 +49,7 @@ class Student2{
         System.out.println("Total Marks: " + (marks1 + marks2));
     }
 }
-public class ClassInst{
+public class aClassEx4StudCons{
     public static void main(String[] args) {
         Student2 s1 = new Student2();
         Student2 s2 = new Student2(1, "Ravi", 90, 80);
