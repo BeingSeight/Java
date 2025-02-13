@@ -15,7 +15,7 @@ class C extends A {
         System.out.println("Inside C's callme method");
     }
 }
-class basics {
+class aMethodRiding {
     public static void main(String args[]) {
         A a = new A();
         B b = new B();
