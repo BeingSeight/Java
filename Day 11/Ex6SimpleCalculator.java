@@ -74,3 +74,4 @@ public class Ex6SimpleCalculator {
         // Set frame visibility
         f.setVisible(true);
     }
+}
