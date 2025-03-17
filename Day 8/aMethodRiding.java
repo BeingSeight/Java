@@ -20,6 +20,7 @@ class aMethodRiding {
         A a = new A();
         B b = new B();
         C c = new C();
+        // Demonstrating polymorphism
         A r;
         r = a;
         r.callme();
